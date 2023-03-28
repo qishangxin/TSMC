@@ -18,6 +18,7 @@ pip install -r requirements.txt
 Install setup.py <br />
 ```
 python setup.py install
+```
 
 ## Data
 Trajectory process data of public buses provided by Stadtwerke Munich
