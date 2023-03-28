@@ -3,6 +3,22 @@ Temporal and spatial micro-clustering of trajectory process data, based on the m
 
 ## Description
 
+## Setup
+
+### Setup Virtual Environment
+```
+!git init
+!git clone https://github.com/qishangxin/TSMC.git
+```
+### Requirements
+Install requirements.txt <br />
+```
+pip install -r requirements.txt
+```
+Install setup.py <br />
+```
+python setup.py install
+
 ## Data
 Trajectory process data of public buses provided by Stadtwerke Munich
 
