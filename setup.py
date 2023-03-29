@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='TSMC',
     version='',
-    packages=['src'],
+    packages=[''],
     url='',
     license='',
     author='qishangxin',
