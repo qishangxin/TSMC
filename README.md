@@ -52,10 +52,10 @@ The project owns the following python modules:
 * [pre-TADE](#pre-TADE)
 * [TADE and MC](#TADE and MC)
 
-*** pre-TADE
+### pre-TADE
 Pre-processing of the data logs mentioned above. It also serves to find out the numerical and sequential anomalies from the data.
 
-*** TADE and MC
+### TADE and MC
 Implementation of the TADE algorithm, the formation of micro-clusters as well as the visualization of the final results.
 
 
