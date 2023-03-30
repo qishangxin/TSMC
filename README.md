@@ -38,11 +38,11 @@ This project aims at experimenting the noval [TADE](https://link.springer.com/ch
 
 
 ## Data
-Trajectory process data of public buses provided by Stadtwerke Munich
+Trajectory process data of public buses provided by Stadtwerke Munich.
 
 [process model](https://github.com/qishangxin/TSMC/blob/main/Sample%20Data%20Process%20Mining%20SWM%20LSA/prozess%20modell%20(linienverlauf).csv)
 
-The expected conduction of bus lines
+The expected conduction of provided bus lines.
 
 [telegram logs](https://github.com/qishangxin/TSMC/blob/main/Sample%20Data%20Process%20Mining%20SWM%20LSA/telegramme%20logs.csv)
 
@@ -50,10 +50,11 @@ The expected conduction of bus lines
 The project owns the following python modules:
 
 * [pre-TADE](#pre-TADE)
-* [TADE and MC](#TADE and MC)
+* [TADE and MC](#TADE-and-MC)
 
 ### pre-TADE
 Pre-processing of the data logs mentioned above. It also serves to find out the numerical and sequential anomalies from the data.
+
 ### TADE and MC
 Implementation of the TADE algorithm, the formation of micro-clusters as well as the visualization of the final results.
 
