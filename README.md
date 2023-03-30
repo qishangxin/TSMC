@@ -5,7 +5,7 @@ Temporal and spatial micro-clustering of trajectory process data, based on the m
 * [Setup](#setup)
 * [Use Instructions](#use-instructions)
 * [Description](#description)
-* [data](*data)
+* [Data](*data)
 * [Modules](#modules)
 * [Others](#others)
 
@@ -54,12 +54,11 @@ The project owns the following python modules:
 
 ### pre-TADE
 Pre-processing of the data logs mentioned above. It also serves to find out the numerical and sequential anomalies from the data.
-
 ### TADE and MC
 Implementation of the TADE algorithm, the formation of micro-clusters as well as the visualization of the final results.
 
 
 ## Others
-[merged_log](#https://github.com/qishangxin/TSMC/blob/main/notebooks/merged_log.csv) is a merged log with all the necessary information after data cleaning for the later implementation of TADE and MC.
+[merged_log](https://github.com/qishangxin/TSMC/blob/main/notebooks/merged_log.csv) is a merged log with all the necessary information after data cleaning for the later implementation of TADE and MC.
 
 [(Back to top)](#table-of-contents)
